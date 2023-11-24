@@ -11,6 +11,8 @@ import Pijamas from "./pages/pijamas"
 
 //Esto es un test de cambios para git
 
+//Esto es un test de cambios desde otra pc para git
+
 function App() {
 
   return (
@@ -36,6 +38,8 @@ function App() {
       </div>
     </>
   )
+
+  
 }
 
 export default App
