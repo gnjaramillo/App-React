@@ -9,7 +9,7 @@ import Mochilas from "./pages/mochilas"
 import Pijamas from "./pages/pijamas"
 
 
-
+//Esto es un test de cambios para git
 
 function App() {
 
